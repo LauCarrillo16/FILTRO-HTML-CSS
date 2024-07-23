@@ -7,6 +7,7 @@ Esta landing page ofrece informacion completa sobre Snowee, servicios, imagenes 
 
 - [Descripción](#descripción)
 - [Diseños](#diseños)
+- [Lenguajes](#lenguajes)
 - [Uso](#uso)
 - [Desarrollado](#Desarrollado)
 
@@ -26,9 +27,16 @@ https://drive.google.com/file/d/12dmuZj7kx5v8hRs7SKRVGh-0Qzg0NI_A/view
 https://excalidraw.com/?authuser=0
 
 
+## Lenguajes
+
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
 ## Uso
 
-
+Esta pagina web se puede ejecutar con la extesnsion de Visual Studio Live Server.
 
 
 ## Desarrollado 
