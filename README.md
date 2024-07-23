@@ -35,11 +35,11 @@ https://excalidraw.com/?authuser=0
 
 ## Uso
 
-Esta pagina web se puede ejecutar con la extesnsion de Visual Studio Live Server.
+- Clonar el repositorio en Visual Studio Code.
+- Esta pagina web se puede ejecutar con la extesnsion Live Server.
 
 
 ## Desarrollado 
 
-HTML - CSS //
 Laura Carrillo - Tecnologa en Desarrollo de Sistemas Informaticos
-@cordilauoficial - Instagram 
+@cordilauoficial - ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
