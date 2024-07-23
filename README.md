@@ -14,7 +14,7 @@ Esta landing page ofrece informacion completa sobre Comidita, servicios, imagene
 
 ## Descripción
 
-Un desarrollador con conocimientos en HTML y CSS es solicitado para hacer la creación de un Aplicativo Web que pueda promocionar los productos de comida rápida al cual debe asignársele un nombre creativo, colores e identidad de marca propios y usted fue seleccionado para hacerlo. Para ello se entrega una maquetación y los elementos multimedia a utilizar. El propósito de este exámen es realizar la creación del aplicativo de acuerdo a los requerimientos del cliente (mostrados en la maquetación).
+Un desarrollador con conocimientos en HTML y CSS es solicitado para hacer la creación de un Aplicativo Web que pueda promocionar los productos de comida rápida al cual debe asignársele un nombre creativo, colores e identidad de marca propios y usted fue seleccionado para hacerlo. Para ello se entrega una maquetación y los elementos multimedia a utilizar. El propósito de este exámen es realizar la creación del aplicativo de acuerdo a los requerimientos del cliente.
 
 
 ## Diseños
