@@ -1,4 +1,4 @@
-# LadingPage Comidita
+# LadingPage Comidita  🥑
 
 Snowee comida divertida es una empresa Santandereana dedicada a ofrecer estaciones de comida para todo tipo de eventos.
 Esta landing page ofrece informacion completa sobre Snowee, servicios, imagenes e informacion de contacto.
