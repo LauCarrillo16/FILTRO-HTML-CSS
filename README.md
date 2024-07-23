@@ -1,7 +1,7 @@
 # LadingPage Comidita  🥑
 
-Snowee comida divertida es una empresa Santandereana dedicada a ofrecer estaciones de comida para todo tipo de eventos.
-Esta landing page ofrece informacion completa sobre Snowee, servicios, imagenes e informacion de contacto.
+Comidita es una empresa dedicada a ofrecer un menù de sus platos y sus servicos.
+Esta landing page ofrece informacion completa sobre Comidita, servicios, imagenes e informacion de contacto.
 
 ## Tabla de contenidos
 
@@ -42,4 +42,4 @@ https://excalidraw.com/?authuser=0
 ## Desarrollado 
 
 Laura Carrillo - Tecnologa en Desarrollo de Sistemas Informaticos
-|@cordilauoficial|  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+| @cordilauoficial |  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
