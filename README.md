@@ -3,8 +3,11 @@
 Snowee comida divertida es una empresa Santandereana dedicada a ofrecer estaciones de comida para todo tipo de eventos.
 Esta landing page ofrece informacion completa sobre Snowee, servicios, imagenes e informacion de contacto.
 
+## Tabla de contenidos
+
 - [Descripción](#descripción)
 - [Diseños](#diseños)
+- [Como usar](#comousar)
 - [Desarrollado](#Desarrollado)
 
 
@@ -21,6 +24,11 @@ https://drive.google.com/file/d/1acVk7UOxJ-3wNT9RNI2WX0lLeb3clqNe/view?pli=1
 Diseño WireFrame
 https://drive.google.com/file/d/12dmuZj7kx5v8hRs7SKRVGh-0Qzg0NI_A/view
 https://excalidraw.com/?authuser=0
+
+
+## Como usar
+
+
 
 
 ## Desarrollado 
