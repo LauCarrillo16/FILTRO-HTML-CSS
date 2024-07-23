@@ -5,7 +5,7 @@ Esta landing page ofrece informacion completa sobre Snowee, servicios, imagenes 
 
 - [Descripción](#descripción)
 - [Diseños](#diseños)
-- [Desarrollado](Desarrollado)
+- [Desarrollado](#Desarrollado)
 
 
 ## Descripción
