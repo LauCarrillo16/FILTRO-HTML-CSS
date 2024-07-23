@@ -42,4 +42,4 @@ https://excalidraw.com/?authuser=0
 ## Desarrollado 
 
 Laura Carrillo - Tecnologa en Desarrollo de Sistemas Informaticos
-@cordilauoficial  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+|@cordilauoficial|  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
